@@ -1,0 +1,5 @@
+{
+  "direct": "Write a short piece in the {genre} style about {topic}.",
+  "detailed": "Write a longer, descriptive {genre} story about {topic}, focusing on {theme}.",
+  "creative": "Create a fun and imaginative {genre} story featuring {character} in {topic}."
+}

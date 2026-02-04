@@ -1,0 +1,5 @@
+{
+  "direct": "Answer the question briefly.\nQ: {q}\nA:",
+  "detailed": "Give a detailed explanation.\nQ: {q}\nA:",
+  "creative": "Answer the question in a creative and engaging way.\nQ: {q}\nA:"
+}

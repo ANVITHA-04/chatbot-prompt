@@ -1,0 +1,5 @@
+{
+  "direct": "Summarize the following text in one sentence:\n{text}\nSummary:",
+  "detailed": "Summarize the following text in a detailed way:\n{text}\nSummary:",
+  "creative": "Summarize the text as if telling a story:\n{text}\nSummary:"
+}
